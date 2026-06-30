@@ -203,6 +203,13 @@ show crypto session
 
 ---
 
+## 📁 Archivos del Repositorio
+
+| Archivo | Descripción |
+|:-------:|-------------|
+| [`Script de configuracion-VPN site to site punto...`](Script%20de%20configuracion-VPN%20site%20to%20site%20punto%20....txt) | Scripts de configuración Cisco IOS |
+| [`SaelGerman_2025-0725_VPN-IPSec IKEv1_Site-to-Site _Basada en Políticas_P2.pdf`](SaelGerman_2025-0725_VPN-IPSec%20IKEv1_Site-to-Site%20_Basada%20en%20Pol%C3%ADticas_P2.pdf) | Documentación técnica completa |
+
 ## 📚 Referencias
 
 1. Cisco Systems. *Cisco IOS Security Configuration Guide: Securing the Data Plane*. Documentación oficial Cisco IOS.
