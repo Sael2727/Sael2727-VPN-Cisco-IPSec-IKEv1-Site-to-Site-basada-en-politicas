@@ -207,7 +207,7 @@ show crypto session
 
 | Archivo | Descripción |
 |:-------:|-------------|
-| [`Script de configuracion-VPN site to site punto...`](Script%20de%20configuracion-VPN%20site%20to%20site%20punto%20....txt) | Scripts de configuración Cisco IOS |
+| [`Script de configuracion-VPN site to site punto...`](VPN-Cisco-IPSec-IKEv1-Site-to-Site-basada-en-politicas-capturas) | Scripts de configuración Cisco IOS |
 | [`SaelGerman_2025-0725_VPN-IPSec IKEv1_Site-to-Site _Basada en Políticas_P2.pdf`](SaelGerman_2025-0725_VPN-IPSec%20IKEv1_Site-to-Site%20_Basada%20en%20Pol%C3%ADticas_P2.pdf) | Documentación técnica completa |
 
 ## 📚 Referencias
